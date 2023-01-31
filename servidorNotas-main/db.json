@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"titulo": "Dipirona",
+		"descrição": "1g",
+		"Preço": "10.0"
+	},
+	{
+		"id": 2,
+		"titulo": "Dorflex",
+		"descrição": "1g",
+		"Preço": "19.9"
+	},
+	{
+		"id": 3,
+		"titulo": "Atenolol",
+		"descrição": "25mg",
+		"Preço": "7.5"
+	},
+	{
+		"id": 4,
+		"titulo": "Tylenol",
+		"descrição": "500mg",
+		"Preço": "11.6"
+	},
+{
+		"id": 5,
+		"titulo": "Metformina",
+		"descrição": "850mg",
+		"Preço": "6.5"
+	}
+
+
+]
